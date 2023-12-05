@@ -1,1 +1,3 @@
+This is the streamlit command to launch the streamlit app. Replace the path of the streamlit file where the streamlit file exist in your system
 
+streamlit run "C:\Users\Lenovo\OneDrive\Desktop\Mulitple disease prediction\multipleDiseasePredictionSystem.py"
